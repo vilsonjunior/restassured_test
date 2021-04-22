@@ -1,7 +1,7 @@
-# Sobre RestAssured
+# Sobre Rest Assured
 
-## Projeto básico utilizando a RestAssured.
-<p> Com o intuito de pesquisas futuras referente ao assunto RestAssured, no que abrange testes de API. </p>
+## Utilizando RestAssured.
+<p> Com o intuito de pesquisas futuras referente ao assunto Rest Assured, no que abrange testes automatizados para de APIs REST. </p>
 
 
 
