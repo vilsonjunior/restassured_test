@@ -18,5 +18,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### 🔗 Referências
 
 - Conteúdo no canal <a href="https://www.youtube.com/channel/UCD6xgRxN3LptxJPIccLU3Vw">QaOps</a>
-- API utilizada <a href="https://swapi.dev/">SWAPI Star Wars</a>
+- API <a href="https://swapi.dev/">SWAPI Star Wars</a>
+- API <a href="https://reqres.in/">Req|Res</a> 
 
